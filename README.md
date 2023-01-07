@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="Banner.png">
+    <img src=".THBD/Banner.png">
 </p>
 
 <p align="center">
