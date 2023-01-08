@@ -21,12 +21,11 @@
   <img src="https://img.shields.io/badge/Author-Arif--Hasnain--Misvah-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
 </p>
-<p
+<p align="center">
 <a href="https://instagram.com/mohammad_arif_hasnain"><img title="BANGLADESH" src="https://img.shields.io/badge/TOOLS-CIRCLE-green.svg"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="Version" src="https://img.shields.io/badge/Version-4.0.4-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="ARIF TECNOLOGY" src="https://img.shields.io/badge/MAINTAINED%3F-YES-green.svg"></a>
 </p>
-
 <p align="center">
 <a href="https://github.com/T0XIC-CYBER"><img title="Github" src="https://img.shields.io/badge/CIRCLE-TOOLS-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ARIF TECNOLOGY-1f425f?style=for-the-badge&logo=Youtube"></a>
@@ -100,7 +99,7 @@ cd $HOME && pkg update && pkg upgrade && pkg install python && pkg install pytho
 ```
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1305FF&lines=+%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2+%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A5+%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%3B+++%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%95+%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%98++%F0%9F%92%9C+%3B++++++%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%98+%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AA+%F0%9D%97%A0%F0%9D%97%98+++%F0%9F%A4%9F+%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=04FCFF&lines=+%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2+%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A5+%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%3B+++%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%95+%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%98++%F0%9F%92%9C+%3B++++++%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%98+%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AA+%F0%9D%97%A0%F0%9D%97%98+++%F0%9F%A4%9F+%3B)](https://git.io/typing-svg)
 
 <p align="center">🔓` 𝚃𝚘𝚘𝚕𝚜 𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍𝚜 𝙷𝚎𝚛𝚎` <a href="https://www.facebook.com/ArifHasNaiN.official">🔓</a> </p>
 
