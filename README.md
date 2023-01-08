@@ -16,12 +16,12 @@
 <p align="center">
 <a href="https://instagram.com/mohammad_arif_hasnain/"><img title="MADE IN BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff899&colorB=%23017e41&colorC=%2FF000&style=for-the-badge"></a>
 </p>
-</p>
-<img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Arif--Hasnain--Misvah-cyan?style=flat-square">
 <p align="center">
+<img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
+</p>
 <a href="https://instagram.com/mohammad_arif_hasnain"><img title="BANGLADESH" src="https://img.shields.io/badge/TOOLS-CIRCLE-green.svg"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="Version" src="https://img.shields.io/badge/Version-4.0.4-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="ARIF TECNOLOGY" src="https://img.shields.io/badge/MAINTAINED%3F-YES-green.svg"></a>
@@ -108,13 +108,13 @@ cd $HOME && pkg update && pkg upgrade && pkg install python && pkg install pytho
     <img src=".THBD/Pass.png">
 </p>
 
-<p align="center">📸 `𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 𝗧𝗲𝗿𝗺𝘂𝘅` <a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
+<p align="center">💻 𝚃𝚘𝚘𝙻𝚜 𝙻𝚘𝚐𝚘 <a href="https://www.facebook.com/ArifHasNaiN.official">💻</a> </p>
 
 <p align="center">
     <img src=".THBD/Logo.png">
 </p>
 
-<p align="center">📸`𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 𝗧𝗲𝗿𝗺𝘂𝘅`<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
+<p align="center">📸 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 𝗧𝗲𝗿𝗺𝘂𝘅 <a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 <p align="center">
     <img src=".THBD/Screenshot1.png">
