@@ -11,7 +11,7 @@
     <img src=".THBD/Banner.png">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1305FF&lines=+%F0%9F%A5%B0%F0%9D%90%8C%F0%9D%90%91+%F0%9D%90%80%F0%9D%90%91%F0%9D%90%88%F0%9D%90%85+%F0%9D%90%87%F0%9D%90%80%F0%9D%90%92%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D+%F0%9F%A5%B0+++%3B+++%F0%9F%91%BD+++%F0%9D%90%88%F0%9D%90%93%F0%9D%90%92+%F0%9D%90%81%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83++%F0%9F%91%BD++++%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=02FFA2&lines=+%F0%9F%A5%B0%F0%9D%90%8C%F0%9D%90%91+%F0%9D%90%80%F0%9D%90%91%F0%9D%90%88%F0%9D%90%85+%F0%9D%90%87%F0%9D%90%80%F0%9D%90%92%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D+%F0%9F%A5%B0+++%3B+++%F0%9F%91%BD+++%F0%9D%90%88%F0%9D%90%93%F0%9D%90%92+%F0%9D%90%81%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83++%F0%9F%91%BD++++%3B)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://instagram.com/mohammad_arif_hasnain/"><img title="MADE IN BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff899&colorB=%23017e41&colorC=%2FF000&style=for-the-badge"></a>
@@ -85,7 +85,7 @@ rm -rf CIRCLE-TOOLS
 ```
 git clone https://github.com/T0XIC-CYBER/CIRCLE-TOOLS
 ```
-- 𝙲𝚑𝚊𝚗𝚐𝚎 𝚝𝚘 𝚌𝚕𝚘𝚗𝚎𝚍 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚛𝚞𝚗 `CIRCLE.py` -
+- 𝙲𝚑𝚊𝚗𝚐𝚎 𝚝𝚘 𝚌𝚕𝚘𝚗𝚎𝚍 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚛𝚞𝚗 `CIRCLE.py`
 
 - ``𝚁𝚞𝚗 𝚃𝚘𝚘𝚕𝚜``
 ```
@@ -102,19 +102,19 @@ cd $HOME && pkg update && pkg upgrade && pkg install python && pkg install pytho
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1305FF&lines=+%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2+%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A5+%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%3B+++%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%95+%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%98++%F0%9F%92%9C+%3B++++++%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%98+%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AA+%F0%9D%97%A0%F0%9D%97%98+++%F0%9F%A4%9F+%3B)](https://git.io/typing-svg)
 
-<p align="center">🔓`𝚃𝚘𝚘𝚕𝚜` `𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍𝚜` `𝙷𝚎𝚛𝚎`<a href="https://www.facebook.com/ArifHasNaiN.official">🔓</a> </p>
+<p align="center">🔓` 𝚃𝚘𝚘𝚕𝚜 𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍𝚜 𝙷𝚎𝚛𝚎` <a href="https://www.facebook.com/ArifHasNaiN.official">🔓</a> </p>
 
 <p align="center">
     <img src=".THBD/Pass.png">
 </p>
 
-<p align="center">📸`𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀` `𝗧𝗲𝗿𝗺𝘂𝘅`<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
+<p align="center">📸 `𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 𝗧𝗲𝗿𝗺𝘂𝘅` <a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 <p align="center">
     <img src=".THBD/Logo.png">
 </p>
 
-<p align="center">📸`𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀` `𝗧𝗲𝗿𝗺𝘂𝘅`<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
+<p align="center">📸`𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 𝗧𝗲𝗿𝗺𝘂𝘅`<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 <p align="center">
     <img src=".THBD/Screenshot1.png">
