@@ -19,9 +19,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Arif--Hasnain--Misvah-cyan?style=flat-square">
-<p align="center">
-<img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
 </p>
+<p
 <a href="https://instagram.com/mohammad_arif_hasnain"><img title="BANGLADESH" src="https://img.shields.io/badge/TOOLS-CIRCLE-green.svg"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="Version" src="https://img.shields.io/badge/Version-4.0.4-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="ARIF TECNOLOGY" src="https://img.shields.io/badge/MAINTAINED%3F-YES-green.svg"></a>
