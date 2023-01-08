@@ -16,6 +16,9 @@
 <p align="center">
 <a href="https://instagram.com/mohammad_arif_hasnain/"><img title="MADE IN BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff899&colorB=%23017e41&colorC=%2FF000&style=for-the-badge"></a>
 </p>
+</p>
+<img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Arif--Hasnain--Misvah-cyan?style=flat-square">
 <p align="center">
@@ -27,9 +30,6 @@
 <p align="center">
 <a href="https://github.com/T0XIC-CYBER"><img title="Github" src="https://img.shields.io/badge/CIRCLE-TOOLS-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ARIF TECNOLOGY-1f425f?style=for-the-badge&logo=Youtube"></a>
-</p>
-<img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
-</p>
 <p align="center">
 <a href="https://github.com/T0XIC-CYBER"><img title="Language" src="https://img.shields.io/badge/Made%20With-Python-1f425f.svg?v=103"></a>
 <a href="https://github.com/T0XIC-CYBER"><img title="Followers" src="https://img.shields.io/github/followers/T0XIC-CYBER?color=cyan&style=flat-square"></a>
