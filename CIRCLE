@@ -1,0 +1,5 @@
+import os
+
+os.chdir('.MAIN')
+
+os.system('python CIRCLE.py')
