@@ -91,11 +91,11 @@ git clone https://github.com/T0XIC-CYBER/CIRCLE-TOOLS
 cd CIRCLE-TOOLS
 ```
 ```
-python CIRCLE.py
+python CIRCLE
 ```
 - `𝙻𝚘𝚗𝚐` `𝙲𝚘𝚖𝚖𝚊𝚗𝚍`
 ```
-cd $HOME && pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pip install lolcat && pip install colorama && pkg install git && git clone https://github.com/T0XIC-CYBER/CIRCLE-TOOLS && cd CIRCLE-TOOLS && python CIRCLE.py
+cd $HOME && pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pip install lolcat && pip install colorama && pkg install git && git clone https://github.com/T0XIC-CYBER/CIRCLE-TOOLS && cd CIRCLE-TOOLS && python CIRCLE 
 ```
 
 
